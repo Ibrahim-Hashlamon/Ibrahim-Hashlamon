@@ -1,4 +1,4 @@
-- 👋 Hi, Ibrahim here. Should you need to, please contact me.
+- 👋 Hi, Ibrahim here. Should you wish to, please contact me.
 - 🌱 I’m currently learning Python
 
 <!---
